@@ -1,4 +1,3 @@
 ﻿  1.c
-D:\work\VS\Project1\1.c(7,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
-D:\work\VS\Project1\1.c(7,9): message : 请考虑在格式字符串中使用“%zd”
-  Project1.vcxproj -> D:\work\VS\Project1\x64\Debug\Project1.exe
+C:\Users\belief\Documents\Visual Studio 2022\my_code\bilibili_net_lesson_homework\belief-C\Project1\1.c(8,9): warning C4101: “b”: 未引用的局部变量
+  Project1.vcxproj -> C:\Users\belief\Documents\Visual Studio 2022\my_code\bilibili_net_lesson_homework\belief-C\Project1\x64\Debug\Project1.exe
