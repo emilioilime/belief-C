@@ -1,2 +1,3 @@
 D:\work\VS\Project1\x64\Release\Project1.exe
 C:\Users\belief\Documents\Visual Studio 2022\my_code\bilibili_net_lesson_homework\belief-C\Project1\x64\Release\Project1.exe
+C:\Users\belief\source\repos\belief-C\Project1\x64\Release\Project1.exe
